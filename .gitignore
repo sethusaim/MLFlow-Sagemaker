@@ -10,7 +10,7 @@ demotest.py
 
 git_push.sh
 
-git_push.sh
+git-push.sh
 
 # Distribution / packaging
 .Python
